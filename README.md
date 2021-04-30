@@ -9,7 +9,7 @@ I enjoy coding, learning about interesting topics such as Computer Architecture 
 * [acm-projects/Standup](https://github.com/acm-projects/Standup)
 
 ## :page_facing_up: Skills
-* __Languages__: JavaScript, C++, TypeScript, HTML, CSS, Java, Python
+* __Languages__: JavaScript, C/C++, TypeScript, HTML, CSS, Java, Python
 * __Tools__: React.js, Node.js, Firebase, Ionic, Flutter
 * __Operating Systems__: Linux
 * __Shells__: Bash (Linux)
