@@ -10,10 +10,10 @@ I enjoy coding, learning about interesting topics such as Computer Architecture 
 
 ## :page_facing_up: Skills
 * __Languages__: JavaScript, C/C++, TypeScript, HTML, CSS, Java, Python
-* __Tools__: React.js, Node.js, Firebase, Ionic, Flutter
+* __Tools__: React.js, Node.js, Spring Boot, Firebase, Ionic, Flutter
 * __Operating Systems__: Linux
 * __Shells__: Bash (Linux)
-* __Databases__: Cloud Firestore (Firebase)
+* __Databases__: Cloud Firestore (Firebase), MongoDB
 
 ## :mortar_board: Coursework
 * C/C++ in a UNIX Environment
