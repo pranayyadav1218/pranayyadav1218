@@ -4,6 +4,8 @@ Hi! I'm Pranay, a Computer Science undergrad attending the University of Texas a
 I enjoy coding, learning about interesting topics such as Computer Architecture and UNIX systems, and putting my skills to the test. I hope to gain meaningful experience in the software development industry over the next few years.
 
 ## :computer: Projects
+* [LaunchPad](https://github.com/RealJasomo/SES-Hackathon-Investors) - Capital One Software Engineering Summit Hackathon (3rd Place)
+
 * [pyadav1218/find-your-flight](https://github.com/pyadav1218/find-your-flight)
 
 * [acm-projects/Standup](https://github.com/acm-projects/Standup)
