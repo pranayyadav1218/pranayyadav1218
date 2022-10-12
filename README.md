@@ -1,7 +1,12 @@
 # :sparkles: Welcome!
-Hi! I'm Pranay, a Computer Science undergrad attending the University of Texas at Dallas.
+Hi! I'm Pranay, a Computer Science undergrad attending the University of Texas at Dallas. I will be pursuing a M.S. in Computer Science at UT Dallas starting Fall 2023.
 
-I enjoy coding, learning about interesting topics such as Computer Architecture and UNIX systems, and putting my skills to the test. I hope to gain meaningful experience in the software development industry over the next few years.
+I enjoy coding, learning about interesting topics such as Data Structures, Algorithm Analysis, AI, building applications for scale, and putting my skills to the test. I hope to gain meaningful experience in the software development industry over the next few years.
+
+## :office: Experience
+* Capital One | Software Engineering Intern - Summer 2022
+    * Made improvements to data compiling and access for an internal tool used by teams at the company. The new features were approved by my manager and senior leadership to be deployed into production.
+    * Tools used: Java with **Spring Framework**, Typescript with **Angular**, HTML, CSS, SQL with **PostgreSQL** and **Snowflake**, **Jenkins** and **AWS** for deployment.
 
 ## :computer: Projects
 * [LaunchPad](https://github.com/RealJasomo/SES-Hackathon-Investors) - Capital One Software Engineering Summit Hackathon (3rd Place)
@@ -15,9 +20,13 @@ I enjoy coding, learning about interesting topics such as Computer Architecture 
 * __Tools__: React.js, Node.js, Spring Boot, Firebase, Ionic, Flutter
 * __Operating Systems__: Linux, Windows
 * __Shells__: Bash, Powershell
-* __Databases__: Cloud Firestore (Firebase), MongoDB
+* __Databases__: Cloud Firestore (Firebase), MongoDB, PostgreSQL
 
 ## :mortar_board: Coursework
+* Artificial Intelligence
+* Computer Networks
+* Operating Systems
+* Object Oriented Design
 * C/C++ in a UNIX Environment
 * Computer Architecture
 * Discrete Math
