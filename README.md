@@ -26,8 +26,10 @@ I enjoy coding, learning about interesting topics such as Data Structures, Algor
 * __Databases__: Cloud Firestore (Firebase), MongoDB, PostgreSQL
 
 ## :mortar_board: Coursework
+* Machine Learning
 * Artificial Intelligence
 * Computer Networks
+* Database Design
 * Operating Systems
 * Object Oriented Design
 * C/C++ in a UNIX Environment
