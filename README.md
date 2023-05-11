@@ -1,5 +1,5 @@
 # :sparkles: Welcome!
-Hi! I'm Pranay, a Computer Science undergrad attending the University of Texas at Dallas. I will be pursuing a M.S. in Computer Science at UT Dallas starting Fall 2023.
+Hi! I'm Pranay, a Computer Science student attending the University of Texas at Dallas. I will be finishing my M.S. in Computer Science at UT Dallas by Spring 2024.
 
 I enjoy coding, learning about interesting topics such as Data Structures, Algorithm Analysis, AI, building applications for scale, and putting my skills to the test. I hope to gain meaningful experience in the software development industry over the next few years.
 
