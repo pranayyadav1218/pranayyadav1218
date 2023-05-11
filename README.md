@@ -10,10 +10,13 @@ I enjoy coding, learning about interesting topics such as Data Structures, Algor
 
 ## :computer: Projects
 * [LaunchPad](https://github.com/RealJasomo/SES-Hackathon-Investors) - Capital One Software Engineering Summit Hackathon (3rd Place)
+    * Allow investors to find up-and-coming startups in one place.
 
-* [pyadav1218/find-your-flight](https://github.com/pyadav1218/find-your-flight)
+* [Find Your Flight](https://github.com/pyadav1218/find-your-flight) - Capital One Software Engineering Summit Challenge
+    * Quickly find flight prices for a particular date range and location.
 
-* [acm-projects/Standup](https://github.com/acm-projects/Standup)
+* [Standup](https://github.com/acm-projects/Standup) - Association for Computing Machinery at UT Dallas 
+    * In light of increased virtualization, we developed a platform to allow stand up performers and comedians to host online rooms for their acts.
 
 ## :page_facing_up: Skills
 * __Languages__: JavaScript, C/C++, TypeScript, HTML, CSS, Java, Python
